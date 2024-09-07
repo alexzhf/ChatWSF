@@ -1,4 +1,4 @@
-This is a POC of ChatWSF powered by LlamaIndex with WSF md files
+This is a POC of ChatWSF powered by LlamaIndex with [WSF](https://github.com/intel/workload-services-framework) md files
 
 ## Preparation
 
